@@ -1,0 +1,1 @@
+Primeiro desafio realizado no curso de Formação Lógica de Programação. Comecei declarando as variáveis para nome, xp e ranking do herói, utilizei if, else if e else para armazenar os dados de xp necessário para classificação de ranking e em seguida console.log para exibir o resultado anunciando o nome e o ranking do herói na saída.
